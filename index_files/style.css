@@ -1,6 +1,8 @@
 body { margin: 0px; padding: 0px; text-align: center; background-color: rgb(253, 253, 253); border-top: 4px solid rgb(255, 255, 255); }
 #border { position: relative; width: 980px; height: 1200px; margin: 44px auto 40px; padding: 0px; background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); }
+#border404 { position: relative; width: 980px; height: 400px; margin: 44px auto 40px; padding: 0px; background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); }
 #container { position: relative; width: 920px; height: 1000px; margin: 34px auto 0px; padding: 0px; background-color: rgb(255, 255, 255); }
+#container404 { position: relative; width: 920px; height: 200px; margin: 34px auto 0px; padding: 0px; background-color: rgb(255, 255, 255); }
 #bordernow { position: relative; width: 980px; height: 8000px; margin: 44px auto 40px; padding: 0px; background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); }
 #containernow { position: relative; width: 920px; height: 4800px; margin: 34px auto 0px; padding: 0px; background-color: rgb(255, 255, 255); }
 p { font-family: georgia,times,Times New Roman,times-roman,georgia,serif; color: rgb(68, 68, 68); margin: 0px; padding: 0px 0px 6px; }
